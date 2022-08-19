@@ -1,0 +1,9 @@
+{
+    "code-runner.runInTerminal": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.saveFileBeforeRun": true,
+    "files.associations": {
+        "stdio.h": "c",
+        "string.h": "c"
+    }
+}
